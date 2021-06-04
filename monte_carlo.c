@@ -1,4 +1,3 @@
-
 #include <assert.h>
 #include <stdlib.h>
 #include <stdio.h>
@@ -55,6 +54,3 @@ float mc_pi(int count)
 	float area =(float) (4*circle)/(count);
 	return area;
 }
-
-
-
